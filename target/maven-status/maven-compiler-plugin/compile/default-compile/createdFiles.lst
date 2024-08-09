@@ -1,0 +1,6 @@
+Business/ProductServlet.class
+endpoint/MyResource.class
+endpoint/ProductResource.class
+Persistence/Product_REST.class
+Helper/ANSI.class
+Helper/Product.class
